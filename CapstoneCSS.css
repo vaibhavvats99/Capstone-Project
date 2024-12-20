@@ -125,7 +125,6 @@ font-size: 14px;
   display: flex;
   justify-content: left;
   align-items: left;
-  border: 2px solid blue;
   padding: 20px;
   max-width: 100%;
 }
@@ -139,7 +138,6 @@ font-size: 14px;
 
 .text .block {
   flex: 1; 
-  border: 1px dashed blue; 
   height: 150px; 
 } 
 
@@ -199,7 +197,6 @@ right: 0;
 }
 .text2 p {
   display: flex;
-  border: 2px solid red;
   font-weight: 400;
   /* align-content: end;
   justify-content: end; */
@@ -211,7 +208,6 @@ right: 0;
 }
 
 .text2 .block2 {
-  border: 2px solid blue;
   padding-right: 50%;
 }
 
